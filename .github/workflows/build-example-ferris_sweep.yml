@@ -1,4 +1,4 @@
-name: 'Build Example sweep'
+name: 'Build Example ferris/sweep'
 on:
   - workflow_dispatch
 jobs:
